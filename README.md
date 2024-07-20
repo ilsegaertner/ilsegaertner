@@ -1,4 +1,4 @@
- <!---Hi, I’m @Joachim 👋
+ 👋 <!---Hi, I’m @Joachim 👋
 
 👀 I’m a Web Developer currently deepening my knowledge in Angular and Typescript
 
